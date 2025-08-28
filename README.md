@@ -59,15 +59,19 @@ This project was built with a modern Android development stack:
 
 ---
 
-## App Preview
+# App Preview
 
-| Login Screen | Camera Interface | Map View |
+| Home Screen | Vault | Vault Search |
 | :---: | :---: | :---: |
-| <img src="assets/login.jpg" width="200"> | <img src="assets/camera.jpg" width="200"> | <img src="assets/map.jpg" width="200"> |
+| <img src="assets/home.jpg" width="200"> | <img src="assets/vault.jpg" width="200"> | <img src="assets/vault_search.jpg" width="200"> |
 
-| Vault with Search | Capsule Details | Profile Screen |
+| Camera Interface | Map View | Profile Screen |
 | :---: | :---: | :---: |
-| <img src="assets/vault.jpg" width="200"> | <img src="assets/detail.jpg" width="200"> | <img src="assets/profile.jpg" width="200"> |
+| <img src="assets/camera.jpg" width="200"> | <img src="assets/map.jpg" width="200"> | <img src="assets/profile.jpg" width="200"> |
+
+| Login Screen | Login with Google | Registration Screen |
+| :---: | :---: | :---: |
+| <img src="assets/login.jpg" width="200"> | <img src="assets/login_google.jpg" width="200"> | <img src="assets/register.jpg" width="200"> |
 
 
 ---
